@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: ***aswinroy255@gmail.com***
 
-- ⚡ Intersting fact: ***I acquired my skills on my own interests, without any assistance from an institution.***
+- ⚡ Interesting fact: ***I acquired my skills on my own interests, without any assistance from an institution.***
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
