@@ -4,8 +4,6 @@
 <h3 align="center">I'm an Aspiring Backend Developer. I really enjoy learning programming languages. Also, I'm confident in my ability to learn anything that comes my way.</h3>
 
 <h2 align="left">👨‍🎓 About me: <img align="right" src="https://komarev.com/ghpvc/?username=itzaswinroy&label=Profile%20views&color=0e75b6&style=flat" alt="itzaswinroy" /> </h2></p>
-
-- 💼 I'm seeking an opportunity to work as a ***software developer.***
   
 - 🌱 I’m currently practicing problems based on ***Data Structures and Algorithms, OOPS concepts.***
 
@@ -16,6 +14,8 @@
 - ✅ I consistently maintain and update my code on ***GitHub.***
 
 - 😃 Pronouns: ***He/Him.***
+
+- 💼 I'm seeking an opportunity to work as a ***software developer.***
 
 - 📫 How to reach me: ***aswinroy255@gmail.com***
 
