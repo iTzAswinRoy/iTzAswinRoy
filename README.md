@@ -42,7 +42,7 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzaswinroy&theme=radical&hide_border=false" alt="itzaswinroy's Streak"/></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itzaswinroy&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="itzaswinroy's Stats"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itzaswinroy&theme=radical&show_icons=true&rank_icon=github&text_bold" alt="itzaswinroy's GitHub stats"></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaswinroy&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="itzaswinroy's Top Languages"/></p>
 
