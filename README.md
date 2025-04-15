@@ -1,7 +1,7 @@
 <p align="center" style="margin-bottom: 0;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Welcome+to+my+GitHub+account!" alt="Typing SVG" /></a>
   
 <h1 align="center" style="margin-top: -1000px;">Hi 👋, I'm Aswin Roy</h1>
-<h3 align="center">I'm an Aspiring Backend Developer. I really enjoy learning programming languages. Also, I'm confident in my ability to learn anything that comes my way.</h3>
+<h3 align="center">I'm a Backend Developer. I really enjoy learning programming languages. Also, I'm confident in my ability to learn anything that comes my way.</h3>
 
 <h2 align="left">👨‍🎓 About me: <img align="right" src="https://komarev.com/ghpvc/?username=itzaswinroy&label=Profile%20views&color=0e75b6&style=flat" alt="itzaswinroy" /> </h2></p>
   
